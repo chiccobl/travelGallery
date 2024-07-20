@@ -70,5 +70,21 @@ F59
 
        - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır.
        - Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.
+    
+   # Sprint 2
+
+  - Sprint içinde tamamlanması tahmin edilen puan: 120 Puan
+  - Daily Scrum: Daily Scrum toplantılarının Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır.
+  - Sprint board update: Sprint board ekran görüntüleri:
+
+  - Ürün durumu: Ürün durumu ekran görüntüleri:
+
+  - Daily scrum: Daily scrum ekran görüntüleri:
+
+  - Sprint rewiew: Alınan kararlar: Tüm UX hedefleri tamamlandı ve uygulamaya entegre edildi. UI tasarımı tamamlandı ve ekip üyelerindennonay alındı. Uygulamanın temel işlevleri başarıyla geliştirildi.
+
+  - Sprint retrospective:
+         - Uygulamaya yeni özellikler eklenmesi konusunda karar alınmıştır.
+         - Gelecek sprintte uygulamayı tamamlayıp son testlerinin yapılması konusunda karar alınmıştır.  
 
 
